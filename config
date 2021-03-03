@@ -25,7 +25,7 @@ resource_parser_url=https://raw.githubusercontent.com/Reachead/quantumut-x/main/
 server_check_url=http://www.google.com/generate_204
 geo_location_checker=http://ip-api.com/json/?lang=en-US, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
 running_mode_trigger=filter, filter, Nordic Studio:all_direct, Nordic 5G: all_direct
-dns_exclusion_list=
+;dns_exclusion_list=
 ;ssid_suspended_list=Nordic Studio, Nordic 5G
 ;udp_whitelist=
 ;excluded_routes= 192.168.0.0/16, 172.16.0.0/12, 100.64.0.0/10, 10.0.0.0/8
