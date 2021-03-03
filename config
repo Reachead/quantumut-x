@@ -27,7 +27,7 @@ geo_location_checker=http://ip-api.com/json/?lang=en-US, https://raw.githubuserc
 running_mode_trigger=filter, filter, Nordic Studio:all_direct, Nordic 5G: all_direct
 dns_exclusion_list=
 ;ssid_suspended_list=Nordic Studio, Nordic 5G
-udp_whitelist=
+;udp_whitelist=
 ;excluded_routes= 192.168.0.0/16, 172.16.0.0/12, 100.64.0.0/10, 10.0.0.0/8
 ;icmp_auto_reply=true
 
