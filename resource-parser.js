@@ -1,4 +1,4 @@
-/** 
+/*
 Resource parser by Shawn
 Noah Le Reachead customize
 /*
